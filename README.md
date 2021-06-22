@@ -1,2 +1,2 @@
 # Aulia-Hijab-Store
-Project Aulia Hijab Store menggunakan VueJS
+Project frontend website toko online Aulia Hijab Store menggunakan VueJS
